@@ -1,0 +1,56 @@
+body{
+    background-image:url(Pizza_HD_Wallpaper_Background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+@font-face {
+    font-family: myFirstFontimport;
+    src: url(LexendTera-Regular.ttf);
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: myfFirstFontimport;
+    src: url(kg-broken-vessels-sketch.regular.ttf);
+    font-weight: bold;
+  }
+.main{
+    
+
+
+}
+.logoo img{
+    
+    width: 10%;
+    padding-left:15px;
+
+}
+.lista {
+    list-style: none;
+    float:right;
+
+}
+ul{
+    padding-right: 100px;
+    color: white;
+
+}
+li{
+    display: inline;
+    padding-right: 25px;
+    font-family: myFirstFontimport;
+    font-size: 20px;
+  
+}
+.aaa{
+    text-align: center;
+    color: white;
+    font-family: myfFirstFontimport;
+    font-size: 60px;
+}
+.aa{
+    text-align: center;
+    color: white;
+    font-family:LexendTera-Regular.ttf ;
+}
